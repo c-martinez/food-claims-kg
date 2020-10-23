@@ -1,7 +1,9 @@
 #+ endpoint: https://graphdb.dumontierlab.com/repositories/FoodHealthClaimsKG
 #+ endpoint_in_url: False
 #+ summary:  List all claims related to the health effect of a specific food
-#+ description: What are claims related to a specific food/food component health effect? 
+#+ description: 
+#+   What are claims related to a specific food/food component health effect? 
+#+   Description has been adjusted in the latest version of the main branch.
 #+ tags:
 #+   - Retrieve claims
 #+ method: GET
